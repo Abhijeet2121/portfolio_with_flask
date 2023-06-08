@@ -31,4 +31,4 @@ def contact():
     return render_template('footer.html')
 
 if __name__ == "__main__":
-    app()
+    app.run()
