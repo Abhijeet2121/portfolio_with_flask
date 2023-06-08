@@ -1,8 +1,6 @@
 from flask import Flask, render_template
-from flask_frozen import Freezer
 
 app = Flask(__name__)
-freezer = Freezer(app)
 
 @app.route("/")
 def home():
@@ -33,4 +31,4 @@ def contact():
     return render_template('footer.html')
 
 if __name__ == "__main__":
-    freezer.freeze()
+    app()
