@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/index.css">
+    <title>Portfolio</title>
+</head>
+<body>
+    <nav class="nav-bar">
+        <div class="nav-logo">
+            <a href="/">AK</a>
+        </div>
+        <div class="nav-links">
+            <a href="/projects">PROJECTS</a>
+            <a href="/skills">SKILLS</a>
+            <a href="/certifications">CERTIFICATIONS</a>
+            <a href="/education">EDUCATION</a>
+            <a href="/about"> ABOUT</a>
+            <a href="/contact">CONTACT</a>
+        </div>
+    </nav>
+    
+<div class="footer-container" id="Contact">
+    <h1>Contact Me</h1>
+    <div class="contact-container">
+        <div><h3>Call Me :</h3>
+            <a href="tel:+919881898026">
+                <span> +919881898026</span>
+            </a>
+        </div>
+        <div><h3>Email To :</h3>
+            <a href="mailto:kumbhaabhijeetv@gmail.com">
+                <span> kumbharabhijeetv@gmail.com</span>
+            </a>
+        </div>
+        <div>
+            <h3>Find me on:</h3>
+            <a href="https://www.instagram.com/abhijeet_kumbhar30/" target="_blank" rel="noreferrer">
+                <img class="svg" src="/static/svg/instagram-1-svgrepo-com.svg" alt="instagram_icon">
+            </a>
+            <a href="https://twitter.com/kabhi30" target="_blank" rel="noreferrer">
+                <img class="svg" src="/static/svg/twitter-svgrepo-com.svg" alt="twitter_logo">
+            </a>
+            <a href="https://github.com/Abhijeet2121" target="_blank" rel="noreferrer">
+                <img class="svg" src="/static/svg/github-svgrepo-com.svg" alt="github_icon">
+            </a>
+        </div>
+    </div>
+    <div class="Copyright">
+        <h6>2022 @ Abhijeet Kumbhar</h6>
+    </div>
+</div>
+
+</body>
+</html>

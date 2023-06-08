@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/index.css">
+    <title>Portfolio</title>
+</head>
+<body>
+    <nav class="nav-bar">
+        <div class="nav-logo">
+            <a href="/">AK</a>
+        </div>
+        <div class="nav-links">
+            <a href="/projects">PROJECTS</a>
+            <a href="/skills">SKILLS</a>
+            <a href="/certifications">CERTIFICATIONS</a>
+            <a href="/education">EDUCATION</a>
+            <a href="/about"> ABOUT</a>
+            <a href="/contact">CONTACT</a>
+        </div>
+    </nav>
+    
+    <div class="About-container">
+        <h1>About Me</h1>
+        <div>
+            <p>
+                I am a self-taught developer with a passion for creating visually appealing and user-friendly websites.I
+                have been able to hone my skills through various online resources and hands-on projects. I specialize in
+                HTML, CSS, JavaScript and Python and have a strong understanding of responsive design. I am constantly
+                learning and staying up to date with the latest industry trends and technologies, such as React. If
+                you're looking for a driven and dedicated developer to bring your vision to life, don't hesitate to
+                reach out!
+            </p>
+        </div>
+    </div>
+
+</body>
+</html>

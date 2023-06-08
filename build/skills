@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/index.css">
+    <title>Portfolio</title>
+</head>
+<body>
+    <nav class="nav-bar">
+        <div class="nav-logo">
+            <a href="/">AK</a>
+        </div>
+        <div class="nav-links">
+            <a href="/projects">PROJECTS</a>
+            <a href="/skills">SKILLS</a>
+            <a href="/certifications">CERTIFICATIONS</a>
+            <a href="/education">EDUCATION</a>
+            <a href="/about"> ABOUT</a>
+            <a href="/contact">CONTACT</a>
+        </div>
+    </nav>
+    
+<div class="Skills">
+    <h1> Skills</h1>
+    <div class="skill-container">
+        <div class="skill-card html">
+            <h3>Html & Css</h3>
+            <img class="svg" src="/static/svg/html-5-svgrepo-com.svg" alt="html_icon">
+            <p>70%</p>
+        </div>
+        <div class="skill-card react">
+            <h3>React</h3>
+            <img class="svg" src="/static/svg/reactjs-svgrepo-com.svg" alt="react_icon">
+            <p>50%</p>
+        </div>
+        <div class="skill-card js">
+            <h3>Javascript</h3>
+            <img class="svg" src="/static/svg/javascript-svgrepo-com.svg" alt="Javascript_icon">
+            <p>60%</p>
+        </div>
+        <div class="skill-card git" >
+            <h3>Github</h3>
+            <img class="svg" src="/static/svg/github-svgrepo-com.svg" alt="github_icon">
+            <p>75%</p>
+        </div>
+        <div class="skill-card python" >
+            <h3>Python</h3>
+            <img class="svg" src="/static/svg/python-package-index-svgrepo-com.svg" alt="python_icon">
+            <p>75%</p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
